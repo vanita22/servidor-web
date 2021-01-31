@@ -1,0 +1,5 @@
+name=vanessa&last%20name=perezname=ines&last%20name=chavezname=agustin&last%20name=castro/nname=benjamin&last%20name=castro
+name=rafael&last%20name=gonzalez
+nombre=mauricio&apellido=castro
+name=rodrigo&last%20name=castro&email=racastr%40hotmail.com&contrase%C3%B1a=1234
+nombre=viola&apellido=ines&email=vchavez%40gmail.com&contase%C3%B1a=123456789

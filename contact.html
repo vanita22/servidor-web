@@ -4,9 +4,23 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contacto</title>
+    <link rel="stylesheet" href="style.css"/>
 </head>
 <body>
-    <h1>Contactanos</h1>
-    <h4>+56 912345678</h4>
+    <div id="container">
+        <h2>Llena el formulario y te contactaremos:</h2>
+        <form action="/" method="POST" id="row">
+            <label for="nombre">nombre</label>
+            <input type="text" id="nombre" name="nombre">
+            <label for="apellido">apellido</label>
+            <input type="text" id="apellido" name="apellido">
+            <label for="email">email</label>
+            <input type="email" id="email" name="email">
+            <label for="contaseña">contaseña</label>
+            <input type="text" id="contaseña" name="contaseña">
+            <button type="submit">Enviar</button>
+        </form>
+    </div>
+    
 </body>
 </html>
